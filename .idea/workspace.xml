@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e8705eb-afe2-4172-8f45-45600eb2ed51" name="Changes" comment="lab1">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/src/main/java/AreaOfTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab2/test/java/AreaOfTriangleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AreaOfTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/src/main/java/AreaOfTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/java/AreaOfTriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab1/test/java/AreaOfTriangleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/s20491/IdeaProjects/TAU2022/test/java"
+    "last_opened_file_path": "C:/Users/kris7/IdeaProjects/TAU2022/Lab1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -120,6 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665317663513</updated>
       <workItem from="1665317664685" duration="5710000" />
+      <workItem from="1667667008638" duration="333000" />
     </task>
     <task id="LOCAL-00001" summary="lab1">
       <created>1665323068117</created>
