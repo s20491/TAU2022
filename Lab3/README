@@ -1,0 +1,18 @@
+Scenariusz dodawanie gry do koszyka.
+1.Wchodzimy na stronę https://store.steampowered.com/
+2.Wciskamy inputa wyszukaj
+3.Wpisujemy w polę wyszukiwania słowo "spiderman"
+4.Wyszukujemy wpisane słowo
+5.Klikamy w pierwszy tytuł gry
+6.Wciskamy przycisk dodaj do koszyka
+7.Sprawdzamy czy gra faktycznie znajduje się w koszyku
+
+Scenariusz logowania do mojego planu zajęć Pjatku
+1.Wchodzimy na stronę https://planzajec.pjwstk.edu.pl/Logowanie.aspx
+2.Klikamy w inputa login
+3.Wpisujemy w pole login słowo "test"
+4.Klikamy w inputa hasło
+5.Wpisujemy w pole hasło słowo "test1"
+6.Klikamy przycisk zaloguj
+7.Sprawdzamy czy dostaliśmy komunikat o błędym loginie lub haśle
+8.Sprawdzamy czy dalej znajdujemy się na stronie https://planzajec.pjwstk.edu.pl/Logowanie.aspx
