@@ -15,11 +15,10 @@ public class LoginToPjatkTest {
     @Before
     public void setUp() {
         webDriver = new ChromeDriver();
-        url = "https://store.steampowered.com/";
     }
 
     @Test
-    public void productPresentInCartAfterAdditionToCart() {
+    public void loginToPjatkTest() {
         webDriver.get("https://planzajec.pjwstk.edu.pl/Logowanie.aspx");
         try {
             Thread.sleep(3000);
